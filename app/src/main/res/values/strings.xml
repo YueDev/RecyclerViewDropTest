@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerView Drop Test</string>
+    <string name="lab_gallery">Gallery</string>
+    <string name="lab_photo">Photo</string>
+</resources>
